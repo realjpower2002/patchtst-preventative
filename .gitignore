@@ -1,0 +1,11 @@
+
+# Simply preventing venv and pycache files from being added to git
+.venv/
+
+__pycache__/
+
+
+# This prevents large tensors / dataframes in 'Data', 'checkpoints' (and backup files), and 'Testing' from being committed.
+*.npy
+
+
