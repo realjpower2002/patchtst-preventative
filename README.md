@@ -6,7 +6,13 @@ The transformer model was trained using random masking over the first 100,000 sa
 
 Training vs Validation Loss Curve : 
 
+![Train vs Validation](https://github.com/user-attachments/assets/d4cde5a5-a0e4-453a-bd57-ebe0c4c2aa84)
+
+
 Outputs for the remaining 900k samples : 
+
+![Quantization Error Bad](https://github.com/user-attachments/assets/62927d3a-8700-42ef-9c26-96577d2b4c00)
+
 
 This project is inspired by the work from the following paper : 
 
