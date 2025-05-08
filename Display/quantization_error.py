@@ -28,3 +28,4 @@ plt.title("Graph of the Quantization Error of all sequences to Good Map")
 plt.grid(True)
 
 plt.show()
+
